@@ -24,7 +24,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/acc\/linkbynet-go-live\/game-room#from-game-room"
+                 "value":"\/@\/acc\/linkbynet-go-live\/game-room#from-office"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -406,7 +406,7 @@
                         {
                          "name":"openWebsiteWidth",
                          "type":"int",
-                         "value":80
+                         "value":100
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -429,7 +429,7 @@
                         {
                          "name":"openWebsiteWidth",
                          "type":"int",
-                         "value":80
+                         "value":100
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -452,7 +452,7 @@
                         {
                          "name":"openWebsiteWidth",
                          "type":"int",
-                         "value":80
+                         "value":100
                         }],
                  "type":"tilelayer",
                  "visible":true,
