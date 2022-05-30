@@ -654,11 +654,6 @@
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
                          "value":"Appuyez sur ESPACE pour ouvrir le quizz"
-                        }, 
-                        {
-                         "name":"openWebsiteWidth",
-                         "type":"int",
-                         "value":100
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -687,11 +682,6 @@
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
                          "value":"Press SPACE to open the quizz"
-                        }, 
-                        {
-                         "name":"openWebsiteWidth",
-                         "type":"int",
-                         "value":100
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -707,7 +697,7 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"https:\/\/ts.accenture.com\/sites\/BrandSpace\/brand_assets"
                         }, 
@@ -735,7 +725,7 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"https:\/\/ts.accenture.com\/:f:\/r\/sites\/CloudFirst.Gallia.France\/Shared%20Documents\/General\/Kit%20de%20Communication_%20Pack%20Cloud%20First%20Spirit?csf=1&web=1&e=vyOV7k"
                         }, 
